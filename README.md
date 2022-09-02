@@ -16,19 +16,19 @@
     
     <h2><b>2. MARCO TEORICO</b></h2>
 
-    ![image](https://user-images.githubusercontent.com/105675032/187055802-bb400bdc-4ca0-4056-9f2e-f0e3745021c9.png)
+ ![image](https://user-images.githubusercontent.com/105675032/187055802-bb400bdc-4ca0-4056-9f2e-f0e3745021c9.png)
     
-    ![image](https://user-images.githubusercontent.com/105675032/187056567-913a9f0d-edd7-44c9-aaf5-186a01147a1c.png)
+ ![image](https://user-images.githubusercontent.com/105675032/187056567-913a9f0d-edd7-44c9-aaf5-186a01147a1c.png)
 
-    ![image](https://user-images.githubusercontent.com/105675032/187056573-2dce4358-239c-4b36-a02d-a6a4ddef8ceb.png)
+ ![image](https://user-images.githubusercontent.com/105675032/187056573-2dce4358-239c-4b36-a02d-a6a4ddef8ceb.png)
 
-    ![image](https://user-images.githubusercontent.com/105675032/187056582-bf6cf719-ba7e-46ed-ac99-2d833da207b6.png)
+ ![image](https://user-images.githubusercontent.com/105675032/187056582-bf6cf719-ba7e-46ed-ac99-2d833da207b6.png)
 
-    ![image](https://user-images.githubusercontent.com/105675032/187056604-d5e6cf90-a912-44c6-a7e1-fb861406c48d.png)
+ ![image](https://user-images.githubusercontent.com/105675032/187056604-d5e6cf90-a912-44c6-a7e1-fb861406c48d.png)
 
-    ![image](https://user-images.githubusercontent.com/105675032/187056616-a901e188-fb84-41eb-b00b-ed7a8934826a.png)
+ ![image](https://user-images.githubusercontent.com/105675032/187056616-a901e188-fb84-41eb-b00b-ed7a8934826a.png)
 
-    ![image](https://user-images.githubusercontent.com/105675032/187056624-4bcc557c-7f13-46d5-a4d6-06b17c1e8f1c.png)
+ ![image](https://user-images.githubusercontent.com/105675032/187056624-4bcc557c-7f13-46d5-a4d6-06b17c1e8f1c.png)
 
     <h3><b>- Procedimiento capítulo 13</b></h3> 
     
